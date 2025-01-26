@@ -4,6 +4,6 @@
 
 # Create your variables here
 
-myNewage = 20 + (2050 - 2025)
+myNewAge = 20 + (2050 - 2025)
 print("My Current Age is " + str(myCurrentAge))
 print("I will be " + str(myNewAge) + " in 2050.")
